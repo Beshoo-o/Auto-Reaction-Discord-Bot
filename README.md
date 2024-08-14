@@ -1,6 +1,7 @@
-## Hi this is a Auto Reaction Discord Bot.
+## 👋🏻 Hi this is a Auto Reaction Discord Bot.
 
-## It was code by Js Language ![alt text](image.png).
+## ⚙️ Code Language :
+- Js
 
 ## 🚀 Getting Started :
 - Install [NodeJs](https://nodejs.org/en)
