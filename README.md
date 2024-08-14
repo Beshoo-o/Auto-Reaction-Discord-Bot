@@ -61,6 +61,11 @@ The bot is built using JavaScript and JSON, leveraging the power of Discord.js t
 
 ---
 
+## 📝 Note
+- **The index code is encrypted.**
+
+---
+
 ## 📂 Repository Structure
 
 ```sh
