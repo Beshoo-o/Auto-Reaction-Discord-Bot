@@ -35,11 +35,9 @@
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
 >   - [🤖 Running Auto-Reaction-Discord-Bot](#-running-Auto-Reaction-Discord-Bot)
->   - [🧪 Tests](#-tests)
 > - [🛠 Project Roadmap](#-project-roadmap)
-> - [🤝 Contributing](#-contributing)
 > - [📄 License](#-license)
-> - [👏 Acknowledgments](#-acknowledgments)
+> - [❓ Help](#-help)
 
 ---
 
