@@ -142,7 +142,7 @@ node app.js
 
 ## 📄 License
 
-This project is protected under the [RSS](https://discord.gg/VzSHHHAsTG) License. For more details, refer to the [LICENSE](https://github.com/Beshoo-o/Auto-Reaction-Discord-Bot/blob/main/LICENSE) file.
+This project is protected under the [RSS Dev](https://discord.gg/VzSHHHAsTG) License. For more details, refer to the [LICENSE](https://github.com/Beshoo-o/Auto-Reaction-Discord-Bot/blob/main/LICENSE) file.
 
 ---
 
